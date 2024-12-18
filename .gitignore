@@ -1,0 +1,17 @@
+# Eclipse project files
+/.project
+/.classpath
+/.settings/
+
+# Build files
+/bin/
+target/
+
+
+# Operating system files
+.DS_Store
+Thumbs.db
+
+# Other files that shouldn't be committed
+*.log
+*.tmp
