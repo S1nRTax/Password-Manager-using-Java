@@ -6,7 +6,7 @@
 # Build files
 /bin/
 target/
-
+/db/
 
 # Operating system files
 .DS_Store
